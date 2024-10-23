@@ -1,6 +1,6 @@
-# Facebook_Ad_Campaign_Dashboard
-Sample Marketing Dashboard Using Streamlit
-Link to Streamlit App and Screenshots : https://shyam-sarma-facebook-ad-campaign-dashboard-app-vpvt7x.streamlitapp.com/
+# Estudo do Streamlit - Dashboard de campanhas
 
-<img width="2547" alt="Screen Shot 2022-10-26 at 7 00 47 PM" src="https://user-images.githubusercontent.com/42867144/198154545-5b9f6eda-77a7-428c-94e5-f5971e594bc5.png">
-# fuzzy-meme
+Estudo inspirado no artigo: https://medium.com/@shyama.gowra/marketing-dashboard-using-python-and-streamlit-5c017534538a
+
+![image](https://github.com/user-attachments/assets/087c3bd4-f12c-4836-bbd5-5e5ce99f5901)
+
